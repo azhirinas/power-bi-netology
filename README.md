@@ -26,6 +26,4 @@
 3. Отчет по активности для разных типов клиентов
 4. Отчет по популяности блюд
 
-Ссылка на отчет: https://app.powerbi.com/view?r=eyJrIjoiODU4ODRlMTMtZWQxNy00Njg3LTkwM2QtYjQ3MTYwODA2ZWQxIiwidCI6IjZjMTI2YTlmLTdkYjUtNDFiNC04ZGM2LTFlZTlmMjMzMWU0MyIsImMiOjl9
-
-<iframe width="800" height="836" src="https://app.powerbi.com/view?r=eyJrIjoiODU4ODRlMTMtZWQxNy00Njg3LTkwM2QtYjQ3MTYwODA2ZWQxIiwidCI6IjZjMTI2YTlmLTdkYjUtNDFiNC04ZGM2LTFlZTlmMjMzMWU0MyIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
+Ссылка на опубликованный отчет: https://app.powerbi.com/view?r=eyJrIjoiODU4ODRlMTMtZWQxNy00Njg3LTkwM2QtYjQ3MTYwODA2ZWQxIiwidCI6IjZjMTI2YTlmLTdkYjUtNDFiNC04ZGM2LTFlZTlmMjMzMWU0MyIsImMiOjl9
